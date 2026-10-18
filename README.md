@@ -10,7 +10,7 @@ Copy the `envy` file to the Ghostty themes folder:
 
 ```sh
 mkdir -p ~/.config/ghostty/themes
-curl -o ~/.config/ghostty/themes/envy https://raw.githubusercontent.com/nivitn/ghostty-envy/main/envy
+curl -o ~/.config/ghostty/themes/envy https://raw.githubusercontent.com/h4tl2/ghostty-envy/main/envy
 ```
 
 Then set the theme in your Ghostty config:
